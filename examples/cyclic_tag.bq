@@ -1,0 +1,18 @@
+; insert initial data queue state here
+
+'(
+  ; insert series of 'f0', 'f10' and 'f11' functions here.
+  "
+)
+
+:f0( ; 0 in BCT
+  ?()
+)
+
+:f10( ; 10 in BCT
+  ?0
+)
+
+:f11( ; 11 in BCT
+  ?1
+)
